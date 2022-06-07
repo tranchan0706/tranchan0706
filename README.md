@@ -5,7 +5,7 @@
 </ul>
 NOW 
 <ul>
-  <li>I am a Fresher Developer</li>
+  <li>Developer</li>
 </ul>
 INFOMATION 
 <ul>
