@@ -9,9 +9,9 @@ NOW
 </ul>
 INFOMATION 
 <ul>
-  <li>🏢 I'm currently studying at: HUFI Food Industry University, HCM City, VietNam.</li>
-  <li>⚙️ I have learned language: c#, java.</li>
-  <li>🌍 I'm mostly active within the DEV Community</li>
+  <li>🏢 Studying: HUFI Food Industry University, HCM City, VietNam.</li>
+  <li>⚙️ Language: c#, java.</li>
+  <li>🌍 Active within the DEV Community</li>
   <li>📫 Reach me: www.facebook.com/tran.chan.9847867</li>
   <li>⚡️ My preference: play football</li>
   <li>🔥 I am passionate about my work</li>
