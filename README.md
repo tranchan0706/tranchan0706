@@ -1,7 +1,7 @@
 👋 Hi there 
 <ul>
-  <li>My name is TRAN THAI CHAN</li>
-  <li>My birthday is 7/6/2000</li>
+  <li>Name: TRAN THAI CHAN</li>
+  <li>Birthday: 7/6/2000</li>
 </ul>
 NOW 
 <ul>
